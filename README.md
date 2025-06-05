@@ -1,4 +1,5 @@
 # Aprendiendo R
+https://drive.google.com/file/d/1CK4hYB8tdpU3eaWDJQdC3VlMbvzJ6Yrh/view?usp=sharing
 ## 🔹 PRIMERA PARTE: Cargar y preparar los datos
 
 ```r
